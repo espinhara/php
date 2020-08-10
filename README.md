@@ -1,3 +1,3 @@
-# php
-Meus pequenos blocos de código 
-dedicado aos programadores mais sonhadoresbque existem.
+# phpMy 
+
+-Little blocks of code dedicated to the most dreamy programmers out there.
